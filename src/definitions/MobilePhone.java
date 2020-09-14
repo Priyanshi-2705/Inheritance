@@ -7,6 +7,8 @@
 
 package definitions;
 
-public class MobilePhone {
-
+public class MobilePhone extends Phone {
+    public void printContactNumber() {
+        System.out.println(getContactNumber());
+    }
 }
