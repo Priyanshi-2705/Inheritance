@@ -8,4 +8,5 @@
 package inheritance;
 
 public class inheritanceDemo {
+
 }
